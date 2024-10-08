@@ -54,4 +54,4 @@ jobs:
           app-name: 'sampleewebapp01'
           slot-name: 'qa'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B77A38E47F54184801770DF9AD79829 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D59770E53D274595B1F4A4C67F52789F }}
